@@ -70,6 +70,6 @@ def valid_the_year_of_the_first_automatic_process(context):
     logging.info('Year of the first automatic process is  ' + year_find)
     context.driver.execute_script("window.scrollTo(0, 3500)")
     create_screenshots(context, "valid_the_year_of_the_first_automatic_process.png")
-    save_csv('Selecting_a_search_result_by_keyword.csv')
+    save_csv('valid_the_year_of_the_first_automatic_process.csv')
     save_results("valid_the_year_of_the_first_automatic_process", "Success", 'None')
     context.driver.close()
