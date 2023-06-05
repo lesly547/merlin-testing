@@ -4,6 +4,8 @@
 
 This project was built to test the API petstore and search google web
 
+[Demo](images/merlin_testing.gif)
+
 ## Built with:
 
 [![Python][Python]][Python-url][![Cucumber][Cucumber]][Cucumber-url][![Selenium][Selenium]][Selenium-url][![JUnit][JUnit]][JUnit-url][![Powershell][Powershell]][Powershell-url]
